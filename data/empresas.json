@@ -1,0 +1,169 @@
+[
+  {
+    "razonSocial": "vfvefrtver",
+    "nit": "2225158619-1",
+    "ciudad": "ecfecf",
+    "unidadRegional": "dcvdfvf",
+    "correo": "cdecevew@csdv",
+    "nombreContacto": "rgvergbet",
+    "interventor": "vfbt",
+    "camara": {
+      "datos": {
+        "razonSocial": "vfvefrtver",
+        "nit": "2225158619-1",
+        "representanteLegal": "vfvtfebet",
+        "cedula": "1911295",
+        "tipoEmpresa": "Privada"
+      }
+    },
+    "documentos": [
+      {
+        "campo": "camara",
+        "etiqueta": "Cámara de Comercio",
+        "filename": "camara__camara de comercio junio de 2026.pdf",
+        "originalname": "camara de comercio junio de 2026.pdf",
+        "mimetype": "application/pdf"
+      },
+      {
+        "campo": "rut",
+        "etiqueta": "RUT",
+        "filename": "rut__camara de comercio junio de 2026.pdf",
+        "originalname": "camara de comercio junio de 2026.pdf",
+        "mimetype": "application/pdf"
+      },
+      {
+        "campo": "cedula",
+        "etiqueta": "Cédula Representante Legal",
+        "filename": "cedula__camara de comercio junio de 2026.pdf",
+        "originalname": "camara de comercio junio de 2026.pdf",
+        "mimetype": "application/pdf"
+      },
+      {
+        "campo": "inhabilidades",
+        "etiqueta": "Formato de Inhabilidades",
+        "filename": "inhabilidades__Formato de inhabilidades (4).xlsx",
+        "originalname": "Formato de inhabilidades (4).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      {
+        "campo": "codigoEtica",
+        "etiqueta": "Código de Ética",
+        "filename": "codigoEtica__Formato de inhabilidades (4).xlsx",
+        "originalname": "Formato de inhabilidades (4).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      {
+        "campo": "tratamientoDatos",
+        "etiqueta": "Tratamiento de Datos",
+        "filename": "tratamientoDatos__Formato de inhabilidades (4).xlsx",
+        "originalname": "Formato de inhabilidades (4).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      {
+        "campo": "manualContratacion",
+        "etiqueta": "Manual de Contratación",
+        "filename": "manualContratacion__Formato de inhabilidades (4).xlsx",
+        "originalname": "Formato de inhabilidades (4).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      {
+        "campo": "rub",
+        "etiqueta": "RUB",
+        "filename": "rub__Formato de inhabilidades (4).xlsx",
+        "originalname": "Formato de inhabilidades (4).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      {
+        "campo": "composicion",
+        "etiqueta": "Composición Accionaria",
+        "filename": "composicion__Formato de inhabilidades (4).xlsx",
+        "originalname": "Formato de inhabilidades (4).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      }
+    ]
+  },
+  {
+    "razonSocial": "bdgbfgbnfg",
+    "nit": "169161065191",
+    "ciudad": "scdcvd",
+    "unidadRegional": "dvfrvgfr",
+    "correo": "dvswdv@vsfbv",
+    "nombreContacto": "vsfvbefrbg",
+    "interventor": "vdfvefrbg",
+    "camara": {
+      "datos": {
+        "razonSocial": "bdgbfgbnfg",
+        "nit": "169161065191",
+        "representanteLegal": "vfdbgbg",
+        "cedula": "494619419",
+        "tipoEmpresa": "Privada",
+        "interventor": "vdfvefrbg"
+      }
+    },
+    "documentos": [
+      {
+        "campo": "camara",
+        "etiqueta": "Cámara de Comercio",
+        "filename": "camara__camara de comercio junio de 2026.pdf",
+        "originalname": "camara de comercio junio de 2026.pdf",
+        "mimetype": "application/pdf"
+      },
+      {
+        "campo": "rut",
+        "etiqueta": "RUT",
+        "filename": "rut__camara de comercio junio de 2026.pdf",
+        "originalname": "camara de comercio junio de 2026.pdf",
+        "mimetype": "application/pdf"
+      },
+      {
+        "campo": "cedula",
+        "etiqueta": "Cédula Representante Legal",
+        "filename": "cedula__camara de comercio junio de 2026.pdf",
+        "originalname": "camara de comercio junio de 2026.pdf",
+        "mimetype": "application/pdf"
+      },
+      {
+        "campo": "inhabilidades",
+        "etiqueta": "Formato de Inhabilidades",
+        "filename": "inhabilidades__Formato de inhabilidades (4).xlsx",
+        "originalname": "Formato de inhabilidades (4).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      {
+        "campo": "codigoEtica",
+        "etiqueta": "Código de Ética",
+        "filename": "codigoEtica__Formato de inhabilidades (4).xlsx",
+        "originalname": "Formato de inhabilidades (4).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      {
+        "campo": "tratamientoDatos",
+        "etiqueta": "Tratamiento de Datos",
+        "filename": "tratamientoDatos__Formato de inhabilidades (4).xlsx",
+        "originalname": "Formato de inhabilidades (4).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      {
+        "campo": "manualContratacion",
+        "etiqueta": "Manual de Contratación",
+        "filename": "manualContratacion__Formato de inhabilidades (4).xlsx",
+        "originalname": "Formato de inhabilidades (4).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      {
+        "campo": "rub",
+        "etiqueta": "RUB",
+        "filename": "rub__Formato de inhabilidades (4).xlsx",
+        "originalname": "Formato de inhabilidades (4).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      },
+      {
+        "campo": "composicion",
+        "etiqueta": "Composición Accionaria",
+        "filename": "composicion__Formato de inhabilidades (4).xlsx",
+        "originalname": "Formato de inhabilidades (4).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+      }
+    ]
+  }
+]
